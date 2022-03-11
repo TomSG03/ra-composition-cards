@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 function Cards({ image, ...props }) {
   return (
     <div className="card" style={{ width: '18rem' }}>
-      {image && <img src={image} className="card-img-top" alt="image" />}
+      {image && <img src={image} className="card-img-top" alt="" />}
       <div className="card-body">
         {props.children}
       </div>
