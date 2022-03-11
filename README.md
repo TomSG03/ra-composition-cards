@@ -1,11 +1,12 @@
 # React
-### [Gh-Pages](https://tomsg03.github.io/ra-forms-hex2rgb/)
+### [Gh-Pages](https://tomsg03.github.io/ra-composition-cards/)
 
+[![CircleCI](https://circleci.com/gh/TomSG03/ra-composition-cards/tree/main.svg?style=svg)](https://circleci.com/gh/TomSG03/ra-composition-cards/tree/main)
 
-## [Домашнее задание к лекции «Работа с формами»](https://github.com/TomSG03/ra16-homeworks/tree/master/forms)
+## [Домашнее задание к лекции «Композиция компонентов»](https://github.com/TomSG03/ra16-homeworks/tree/master/composition)
 
-- [x] Конвертер цветов
-- [x] [Учёт тренировок]()
+- [x] Карточки
+- [x] [Декомпозиция](https://github.com/TomSG03/ra-composition-decomposition)
 
 ---
 [Спискок задач](https://github.com/TomSG03/ra-homeworks-list)
