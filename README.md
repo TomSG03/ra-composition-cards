@@ -6,7 +6,7 @@
 ## [Домашнее задание к лекции «Композиция компонентов»](https://github.com/TomSG03/ra16-homeworks/tree/master/composition)
 
 - [x] Карточки
-- [x] [Декомпозиция](https://github.com/TomSG03/ra-composition-decomposition)
+- [ ] [Декомпозиция](https://github.com/TomSG03/ra-composition-decomposition)
 
 ---
 [Спискок задач](https://github.com/TomSG03/ra-homeworks-list)
